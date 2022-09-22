@@ -1,0 +1,157 @@
+---
+title: |
+  ![](banner.png){width=100%} 
+author: ""
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+## Introduction
+
+###### My name is Charles Ross and I'm a GIS Analyst, Data Visualization Specialist, Data Engineer and Data Scientist who specializes in using programs such as ArcGIS, R Shiny, Power BI, and Tableau to create interactive and dynamic dashboards, maps, reports, graphs, tables, and other applications that meets the request of my clients who are either looking for new features to add to an existing platform, or are looking for a new tool to explore information within their own organization. I also specialize in utilizing various coding languages such as Python, R, and SQL to clean and analyze large datasets, streamline data processing workflows, as well as maintain and organize databases.
+
+###### This page is a portfolio of past project I have completed for clients, achievements I have accomplished throughout my career, and of the personal projects I pursue in my spare time. Please feel free to explore these dashboards, graphs, tables, reports and applications at your leisure, and if you have any questions, please feel free to send me a message, my contact information can be found at the bottom of this page.
+
+
+<br>
+<br>
+
+## Experience and Skills {.tabset}
+
+### Languages
+
+  Add section on brief overview of coding languages that you are proficient in. Add graph below that displays your years of experience in a plotly graph, have the values update each year that the script is run
+
+```{r, languages-graph, echo = FALSE, include = FALSE}
+library(plotly)
+
+
+```
+
+<br>
+<br>
+<br>
+
+### Softwares
+
+<br>
+<br>
+<br>
+
+### Skills
+
+
+<br>
+<br>
+<br>
+
+
+## Published Projects {.tabset}
+
+### COVID-19 Dashboards and Datahub
+
+<br>
+<br>
+<br>
+
+
+### Flu Dashbaord (2021 - 2022)
+
+<br>
+<br>
+<br>
+
+
+### COVID-19 and Flu Weekly Report
+
+<br>
+<br>
+<br>
+
+
+### Testing Site Locator Map
+
+<br>
+<br>
+<br>
+
+
+
+## Published Academic Work {.tabset}
+
+### Legal Geographies and Political Ecologies of Water Allocation in Maui, Hawai‘i
+
+<br>
+<br>
+<br>
+
+
+### Changes to California Alfalfa Production and Perceptions During the 2011 - 2017 Drought
+
+<br>
+<br>
+<br>
+
+
+
+<br>
+<br>
+
+## Personal Projects
+
+<br>
+<br>
+
+## Contact Information
+
+
+
+```{css, echo=FALSE}
+h1.title {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+
+h2 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+
+h4.author {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h6 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.5;
+  text-align: "justify";
+}
+
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 10px;
+}
+
+```
